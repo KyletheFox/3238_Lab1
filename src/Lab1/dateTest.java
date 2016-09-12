@@ -26,7 +26,7 @@ public class dateTest {
 	
 	@Test
 	public void test3() {
-		assertEquals(395, d5.daysTo(d6));
+		assertEquals(394, d5.daysTo(d6));
 	}
 	
 }
